@@ -106,4 +106,6 @@ def partd():
     print("\nGraph saved as:")
     print("- sorting_comparison_bar_graphs.png")
 
+
+if __name__ == "__main__":
     partd()
